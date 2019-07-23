@@ -1,6 +1,6 @@
 ## My i3 setup
 
-This is the confguration file for the ![i3](https://i3wm.org/) window manager
+This is my confguration file for the ![i3](https://i3wm.org/) window manager
 
 ## i3 Controls
 
